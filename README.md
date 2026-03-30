@@ -1,4 +1,4 @@
-# Day 16 - Hangman Game
+# 16 - Hangman Game
 
 Python CLI implementation of the classic Hangman game with random word selection, letter tracking, and limited attempts.
 
